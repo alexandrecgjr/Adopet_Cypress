@@ -8,8 +8,6 @@ describe('Página princial', () => {
         cy.get('.footer > p').should('be.visible');
 
         cy.get('.header__message').click();
-        cy.get('[data-test="input-loginEmail"]').type('alexandre@email.com');
-        cy.get('[data-test="input-loginPassword"]').type('Senha123');
-        cy.get('[data-test="submit-button"]').click();
+        cy.login('alexandre@email.com', 'Senha123');
     })
 })

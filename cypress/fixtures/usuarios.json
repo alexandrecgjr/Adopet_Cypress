@@ -1,0 +1,31 @@
+{
+    "usuarios": [
+  {
+    "name": "Alexandre Carlos",
+    "email": "alexandre.carlos@example.com",
+    "password": "SenhaForte123!"
+  },
+  {
+    "name": "Maria Silva",
+    "email": "maria.silva@example.com",
+    "password": "M@ria2025!"
+  },
+  {
+    "name": "João Souza",
+    "email": "joao.souza@example.com",
+    "password": "Joao#Teste99"
+  },
+  {
+    "name": "Carla Ferreira",
+    "email": "carla.ferreira@example.com",
+    "password": "Carla@Secure77"
+  },
+  {
+    "name": "Lucas Santos",
+    "email": "lucas.santos@example.com",
+    "password": "Luc@s2025#"
+  }
+]
+
+
+}
